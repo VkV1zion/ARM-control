@@ -1,5 +1,5 @@
 # ARM-control
-# Arm controller for arm robot marlin firmware
+Arm controller for Arm Robot Marlin Firmware
  
 
 Control for
