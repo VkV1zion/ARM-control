@@ -14,4 +14,4 @@ Need Python and i compile with the setup with inno
 
 Model 3d: https://www.thingiverse.com/thing:4917505
 
-# By LouisCH
+# By VK_V1zion
